@@ -1,7 +1,51 @@
 ## Hi there 👋
 <img width="426" height="640" alt="G Logo sitting in sofachair" src="https://github.com/user-attachments/assets/4fea376c-75dc-4f01-a07e-4d968204bfcf" />
 
-# 👨‍💻 About Me<br><br>🚀 I'm **Rana (Rajesh Naidu)**, a passionate **Multi-Cloud DevOps Engineer**, Corporate Trainer, and Technology Entrepreneur with **17+ years of IT industry experience**.<br><br>☁️ Specialized in **AWS, Azure, GCP, DevOps, Kubernetes, Terraform, Docker, CI/CD, and Cloud Architecture**.<br><br>🏢 Previously worked with leading global organizations including **TCS, IBM, Invesco, Wipro, and CSC**, delivering enterprise-scale cloud and infrastructure solutions.<br><br>🎯 Founder & CEO of **Cloud Technet** and **Hyderabad Cloud**, helping students and professionals build successful careers in Cloud, DevOps, and Emerging Technologies.<br><br>🎓 Trained and mentored **10,000+ students and working professionals** in **English, Telugu, and Tamil**, enabling them to secure opportunities in top MNCs.<br><br>🤖 Currently exploring and building **AI Agents, Agentic AI Workflows, Automation Platforms, and Next-Generation AI Solutions**.<br><br>💡 Areas of Interest:<br><br>* Cloud Computing<br>* DevOps & Platform Engineering<br>* Kubernetes & Containerization<br>* Infrastructure as Code (Terraform)<br>* CI/CD Automation<br>* AI Agents & Generative AI<br>* Career Mentoring & Technical Training<br><br>🌱 Currently Learning:<br><br>* AI Agent Development<br>* Multi-Agent Systems<br>* AI Automation Frameworks<br>* Enterprise AI Solutions<br><br>📫 Reach Me:<br>**[rana@cloudtechnet.in](mailto:rana@cloudtechnet.in)**<br><br>⚡ Fun Fact:<br>I enjoy transforming complex technology concepts into simple, practical learning experiences and have helped thousands of students start and accelerate their IT careers.<br>
+# 👨‍💻 **About Me**
+
+Hi, I'm **Rana (Rajesh Naidu)** — a **Multi-Cloud DevOps Engineer**, **Corporate Trainer**, and **Technology Entrepreneur** with **17+ years of IT industry experience**.
+
+I specialize in **AWS**, **Azure**, **Google Cloud Platform (GCP)**, **DevOps**, **Kubernetes**, **Terraform**, **Docker**, **CI/CD Automation**, and **Cloud Architecture**, helping organizations build scalable, secure, and reliable cloud solutions.
+
+## 🏢 **Professional Journey**
+
+I have worked with globally recognized organizations including **TCS**, **IBM**, **Invesco**, **Wipro**, and **CSC**, contributing to enterprise-scale cloud transformation, infrastructure modernization, automation, and platform engineering initiatives.
+
+## 🎯 **Founder & Mentor**
+
+I am the **Founder & CEO of Cloud Technet and Hyderabad Cloud**, where I focus on empowering students and IT professionals with industry-relevant skills in Cloud Computing, DevOps, AI, and Modern Technologies.
+
+Over the years, I have successfully trained and mentored **10,000+ students and professionals** in **English, Telugu, and Tamil**, helping them build rewarding careers in leading MNCs across the globe.
+
+## 🤖 **Currently Building**
+
+I am actively exploring and developing **AI Agents**, **Agentic AI Workflows**, **Intelligent Automation Platforms**, and **Next-Generation AI Solutions** that transform the way businesses operate and innovate.
+
+## 💡 **Areas of Expertise**
+
+• **Multi-Cloud Architecture (AWS, Azure & GCP)**
+• **DevOps & Platform Engineering**
+• **Kubernetes & Container Orchestration**
+• **Infrastructure as Code (Terraform)**
+• **CI/CD Pipeline Automation**
+• **Cloud Security & Best Practices**
+• **AI Agents & Generative AI**
+• **Corporate Training & Career Mentoring**
+
+## 🌱 **Currently Learning**
+
+• **AI Agent Development**
+• **Multi-Agent Systems**
+• **AI Automation Frameworks**
+• **Enterprise AI Solutions**
+
+## 📫 **Connect With Me**
+
+Email: **[rana@cloudtechnet.in](mailto:rana@cloudtechnet.in)**
+
+## ⚡ **Fun Fact**
+
+I enjoy simplifying complex technology concepts into practical, easy-to-understand learning experiences and have helped thousands of aspiring professionals launch and accelerate their IT careers.
 
 
 ## 🌐 Socials:
